@@ -1,5 +1,6 @@
-### AML Assignment 1
-# 1. Explainable AI
-# 2. LRP
-# 3. Grad-CAM
-# 4. LIME
+# AML Assignment 1
+## Explainable AI
+#### 1. LRP
+#### - LRP is 
+#### 2. Grad-CAM
+#### 3. LIME
